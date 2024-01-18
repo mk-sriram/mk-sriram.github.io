@@ -278,14 +278,19 @@ background-color: blue;*/
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
-.btn-color-2{
-  padding: 20px 30px ;
-  font-size: 30px;
-  font-weight: 500;
-  border-radius: 19px;
-  margin-top: 25px;
-  border-width: 3px;
+
+
+#check-itout-photo{
+ 
+    padding: 20px 30px ;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 19px;
+    margin-top: 25px;
+    border-width: 3px;
+  
 }
+
 .btn-container {
   gap: 1rem;
 }
