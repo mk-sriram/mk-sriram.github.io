@@ -278,7 +278,14 @@ background-color: blue;*/
 .btn-color-2:hover {
   border: rgb(255, 255, 255) 0.1rem solid;
 }
-
+.btn-color-2{
+  padding: 20px 30px ;
+  font-size: 30px;
+  font-weight: 500;
+  border-radius: 19px;
+  margin-top: 25px;
+  border-width: 3px;
+}
 .btn-container {
   gap: 1rem;
 }
@@ -293,9 +300,9 @@ background-color: blue;*/
 
 #about {
   position: relative;
-  
   justify-content: center;
-  padding-top: 400px;
+  padding-top: 180px;
+
   
 }
 
@@ -323,6 +330,9 @@ background-color: blue;*/
 .about-pic {
   border-radius: 0rem;
 }
+.taking-pic{
+  
+}
 
 .arrow {
   position: absolute;
@@ -341,9 +351,10 @@ background-color: blue;*/
 }
 
 .section-container {
+  margin: 30px;
   display: flex;
   gap: 4rem;
-  height: 50%;
+  height: fit-content;
   
   justify-content: center;
 }
