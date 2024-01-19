@@ -304,9 +304,8 @@ background-color: blue;*/
 #about {
   position: relative;
   justify-content: center;
-  padding-top: 180px;
-
-  
+  padding-top: 100px;
+  margin-bottom: 480px;
 }
 
 .about-containers {
