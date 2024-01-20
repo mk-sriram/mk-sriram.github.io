@@ -508,3 +508,57 @@ p.second_about{
   font-size: 2rem;
   text-align: left;
 }
+
+
+#contact{
+  padding: 100px 100px;
+  text-align: center;
+  align-items: center;
+  
+}
+
+.section-container{
+  background: rgba(220, 220, 220, 0.24); /* background color */
+  border-radius: 15px; /* the radius of the edges */
+  padding: 30px 30px 30px;  /* the padding on the inside  */
+  border: 0.5px solid #000000; /*  border thickness */
+  margin: 100px 100px;
+  max-width: 1000px;
+  min-width: 400px;
+  display: block;
+  align-items: center;
+}
+
+.subject-input, .email-input, .text-area{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    background-color: white;
+    border: 0.5px solid #000000;
+    border-radius: 9px;
+    font-size: 14px;
+    color: #000;
+    -webkit-backdrop-filter: blur(2px); 
+    box-shadow: 0 4px 8px #dddddd;
+    max-width: 400px;
+}
+
+.short-btn{
+  width: 30%;
+    color: #000;
+    border: 0.5px solid #000; 
+    border-radius: 16;
+    padding: 8px; 
+    background-color: white; 
+  
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+.short-btn:hover{
+  background-color: #000;
+  color: #fff;
+  border-radius: 16;
+
+}
+
