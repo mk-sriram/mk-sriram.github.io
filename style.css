@@ -357,7 +357,7 @@ background-color: blue;*/
   display: flex;
   gap: 4rem;
   height: fit-content;
-  
+  border-color: transparent;
   justify-content: center;
 }
 
